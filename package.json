@@ -9,8 +9,16 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "moment-timezone": "^0.5.31",
+    "nuxt-tailvue": "^1.0.44",
     "vue": "^2.6.11",
+    "vue-excel-export": "^0.1.3",
+    "vue-js-modal": "^2.0.0-rc.6",
+    "vue-json-excel": "^0.3.0",
+    "vue-moment": "^4.1.0",
     "vue-router": "^3.2.0",
+    "vue-toast-notification": "^0.5.4",
+    "vue-toasted": "^1.1.28",
     "vuex": "^3.4.0"
   },
   "devDependencies": {
